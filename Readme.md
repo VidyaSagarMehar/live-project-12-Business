@@ -6,7 +6,7 @@
 
 
 
-## Project Title - BUsiness Solution Provider
+## Project Title - Business Solution Provider
 
 Homepage of online Business solution provider to grow your business and reach to maximum customer.
 
