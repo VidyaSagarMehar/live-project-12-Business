@@ -80,11 +80,12 @@ div.mainHome p{
     width: 400px;
 }
 span.empBtn img{
-    position: absolute;
+    display: none;
+    /* position: absolute;
     width: 20px;
     height: 15px;
     bottom: 135px;
-    right: 630px;
+    right: 630px; */
 
 }
 #emailAdd{
