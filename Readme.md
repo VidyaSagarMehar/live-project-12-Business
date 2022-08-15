@@ -11,7 +11,7 @@
 Homepage of online Business solution provider to grow your business and reach to maximum customer.
 
 ## Average time to complete
-#### 6 ½ Hrs
+#### 7 ½ Hrs
 
 
 ## Lessons Learned
@@ -36,7 +36,7 @@ Project mjorly built from
 HTML, CSS...
 
 ## Demo | Netlify
-https://hosting-services.netlify.app/
+https://business-expand.netlify.app/
 
 
 ## Screenshots
@@ -47,7 +47,7 @@ https://hosting-services.netlify.app/
 
 ## Features
 
-- Only for desktop view
+- Mobile resposnsive
 - Live previews
 - Fullscreen mode
 
@@ -56,7 +56,7 @@ https://hosting-services.netlify.app/
 
 - Additional browser support to be added.
 
-- Mobile responsivness will added soon.
+- Tablet responsivness will added soon.
 
 ## Feedback
 
